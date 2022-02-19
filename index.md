@@ -1,12 +1,19 @@
-## Welcome to GitHub Pages
+## Letters from a Stoic scratch notes
 
-You can use the [editor on GitHub](https://github.com/freddygithub/info/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Letters II through LIV
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These are some of my notes on what stood out to me and why.
 
-### Markdown
+I found an arching theme in these chapters plaing with the idea of frienship
+1. Friends are people you trust
+2. Note the difference between the title 'friend' and the actually thing
+3. Commit to friendship 
+  - "Welcome him and heart and soul"
+  - Treat him as loyal, and you will make him such
+  - Fear of being decieved, will teach other to decieve you
+4. Difference between being friends and friendship
+5. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -27,11 +34,3 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/freddygithub/info/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
