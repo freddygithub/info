@@ -8,6 +8,7 @@ Topics covered:
 
 These are some of my notes on what stood out to me and why.
 I found an arching theme in these chapters playing with the idea of frienship and mentorship. 
+
 Friends: 
 1. Friends are people you trust
 2. Note the difference between the title 'friend' and the actually thing
